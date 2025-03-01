@@ -99,5 +99,4 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 - Inspired by the needs of financial analysis and data visualization in the context of French bonds.
 
 Happy Analyzing!
-````
 
