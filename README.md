@@ -1,4 +1,3 @@
-````markdown name=README.md
 # French Bonds Analysis
 
 Welcome to the **French Bonds Analysis** project! This repository contains a collection of Jupyter Notebooks designed to analyze French bonds data, offering insights and visualizations that help in understanding trends, performance, and other financial metrics related to French investment bonds.
