@@ -31,7 +31,7 @@ To set up your local environment and run the Jupyter Notebooks, follow these ste
 1. **Clone the Repository**  
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/barhador/French-Funds-Analysis.git
+   git clone https://github.com/barhador/French-Bonds-Analysis.git
    ```
 
 2. **Set Up a Virtual Environment**  
